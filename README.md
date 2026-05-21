@@ -185,7 +185,7 @@ Cliente: 🎤 "Quero agendar um corte dia 12/05 às 10 horas"
 
 Desenvolvido por **Lucas S. Queiroz**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-queiroz-74a50315a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-queiroz-74a50315a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucas-squeiroz)
 
 ---
