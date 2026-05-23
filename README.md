@@ -82,7 +82,7 @@ Evolution API
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/agente-barbearia-whatsapp
+git clone https://github.com/Lucas-squeiroz/agente-barbearia-whatsapp
 ```
 
 **2. Crie um projeto no Google Apps Script**
